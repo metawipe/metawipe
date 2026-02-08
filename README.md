@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/metawipe/metawipe/refs/heads/main/banner.svg" alt="Contribution Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/metawipe/metawipe/refs/heads/main/github-user-banner.svg" alt="Banner" width="100%" />
 </p>
 
 I am a 15-year-old developer focused on **low-level** and **backend** development. I enjoy building efficient systems and exploring how things work under the hood.
