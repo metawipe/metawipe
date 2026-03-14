@@ -12,7 +12,7 @@
 ![metrics](https://raw.githubusercontent.com/metawipe/metawipe/refs/heads/main/github-metrics.svg)<br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CtorW/CtorW/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CtorW/CtorW/refs/heads/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/CtorW/CtorW/refs/heads/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/metawipe/metawipe/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/metawipe/metawipe/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/metawipe/metawipe/refs/heads/output/github-contribution-grid-snake.svg"/>
 </picture>
