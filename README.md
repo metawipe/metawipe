@@ -1,12 +1,21 @@
-I am a 15-year-old developer focused on **low-level** and **backend** development. I enjoy building efficient systems and exploring how things work under the hood.
+<div align="CENTER">
+  <img width="600" height="122" alt="CTORWLOGO NEW" src="https://github.com/user-attachments/assets/8db87e9b-bc7d-4b07-b45b-865303af764a" />
+  
+  ![MyWebsiteLangFront](https://img.shields.io/badge/Front_End_Developer-005C99?style=for-the-badge&logo=coffeescript&logoColor=white)<br>
+</div>
 
-*   **C++**: Proficient in OOP principles and core language features.
-*   **Go**: Building scalable and concurrent microservices.
-*   **Python**: Scripting, automation, and rapid prototyping.
+<h1>Socials</h1>
 
-## Languages/Frameworks/Tools
-[![My Skills](https://skillicons.dev/icons?i=cpp,golang,python,vscode,github,git,java)](https://skillicons.dev)
+[![GitHub](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/github.svg)](https://github.com/CtorW)
+[![Discord](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/discord.svg)](https://discord.com/users/729473858179956859)
+[![Facebook](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/facebook.svg)](https://www.facebook.com/streetx.rnc)
+[![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/instagram.svg)](https://www.instagram.com/xir.rens)
+[![TikTok](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/tiktok.svg)](https://www.tiktok.com/@arch.hypr)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/metawipe/metawipe/refs/heads/main/github-user-contribution.svg" alt="Contribution Graph" width="100%" />
-</p>
+![metrics](https://raw.githubusercontent.com/CtorW/CtorW/refs/heads/uno/github-metrics.svg)<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CtorW/CtorW/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CtorW/CtorW/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/CtorW/CtorW/refs/heads/output/github-contribution-grid-snake.svg"/>
+</picture>
