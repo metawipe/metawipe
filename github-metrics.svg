@@ -32,8 +32,8 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -2284,6 +2284,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2297,7 +2302,7 @@
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgcBBAUI/8QAKRAAAQMDAgUEAwEAAAAAAAAAAQIDBAAFEQYhEzFBYZEHEiMyIkJxUf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwCQSAYM5xUd0OoQ5lJRzAB6jpzFKrP6TXy6QzcX7qzZEFgLabeKg6vcnJA+o3G/eqTbvTGZEukadLjtOBl0LP5BZIB5fztWtr68RJWu4VsuikRwwnj8MsJPGwcgAn65/wB7YoqJr09qWw2yYqdc2rxawEpZfacLiQog5J/YHfG+1CZCJbjpU1EdUk9faa9By4UZMFD9naXBIw6Q2+44coIVgEnO+AD2oepq7z1KkSlsKdWdyHFpHihZC1X7lfY7HwRnCHTzJ5eaGeomkYOoItvnrVw3QkBSgMrKB0z5rt+xKigqSCVjej2obnIa0zqW6oKQ9DcajMNY+NtO+4HPPfNMWIrsO0BiOwptmM3gKKhkDO2+/wDPNKWrcxJbS8y8ypCxkFABFQaJdZc5sJlOcQdxTSxSXmLeENurSn3HbNGq/9k=" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgcBBAUI/8QAKRAAAQMDAgUEAwEAAAAAAAAAAQIDBAAFEQYhEzFBYZEHEiMyIkJxUf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwCQSAYM5xUd0OoQ5lJRzAB6jpzFKrP6TXy6QzcX7qzZEFgLabeKg6vcnJA+o3G/eqTbvTGZEukadLjtOBl0LP5BZIB5fztWtr68RJWu4VsuikRwwnj8MsJPGwcgAn65/wB7YoqJr09qWw2yYqdc2rxawEpZfacLiQog5J/YHfG+1CZCJbjpU1EdUk9faa9By4UZMFD9naXBIw6Q2+44coIVgEnO+AD2oepq7z1KkSlsKdWdyHFpHihZC1X7lfY7HwR3CHTuSeXmhnqJpGDqCLb561cN0JAUoDKygdM+a7fsSooKkglY3o9qG5yGtM6luqCkPQ3GozDWPjbTvuBzz3zTFiI7DtAYjx1Nsxm8BRUMgZ233/nmlLVuYktpeZeZUhYyCgAioNEusuc2EynOIO4ppYpLzFvCG3VpT7jtmjVf/9k=" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -2315,7 +2320,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 May 2026, 04:57:32 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 May 2026, 04:59:56 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
